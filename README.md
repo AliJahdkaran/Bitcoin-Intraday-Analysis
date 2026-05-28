@@ -8,6 +8,8 @@
 * **داشبورد تعاملی تبلو:** پیاده‌سازی منوی آبشاری هوشمند (Hamburger Menu) کانتینری برای جابه‌جایی داینامیک بین نمودارها.
 * **فرمول‌نویسی اختصاصی:** تبدیل فرمت زمان یونیکس (Unix Timestamp) به DateTime استاندارد و ساخت فیلد محاسباتی `tradable formula` برای بخش‌بندی روزهای معاملاتی پربازده.
 
+👈 [**برای دیدن داشبورد تعاملی روی tableau public اینجا کلیک کنید
+**]([توی_این_پرانتز_لینک_تابلو_پابلیک_خودت_رو_بذار](https://public.tableau.com/views/btc-dashboard/sheet4?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 ---
 
 ### 🌍 English Version
@@ -25,4 +27,4 @@ An advanced data analytics project focusing on the microstructural behavior of B
 * `tableau-workbooks/`: The packaged Tableau workbook (.twbx).
 
 ### 🔗 Live Interactive Dashboard / لینک داشبورد زنده:
-👉 [**Click Here to View the Interactive Dashboard on Tableau Public**](توی_این_پرانتز_لینک_تابلو_پابلیک_خودت_رو_بذار)
+👉 [**Click Here to View the Interactive Dashboard on Tableau Public**]([توی_این_پرانتز_لینک_تابلو_پابلیک_خودت_رو_بذار](https://public.tableau.com/views/btc-dashboard/sheet4?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
